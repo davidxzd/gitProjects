@@ -1,1 +1,2 @@
 I love to play with Git!
+Hi
